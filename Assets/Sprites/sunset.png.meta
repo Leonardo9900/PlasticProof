@@ -1,0 +1,1169 @@
+fileFormatVersion: 2
+guid: 8df9daf497c44480993ca5d1427aeb2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 689283645380311244
+    second: sunset_0
+  - first:
+      213: -8505455023878367678
+    second: sunset_1
+  - first:
+      213: -854100238237632227
+    second: sunset_2
+  - first:
+      213: -2156744897565133147
+    second: sunset_3
+  - first:
+      213: -2833390591846474745
+    second: sunset_4
+  - first:
+      213: 5956900105284652418
+    second: sunset_5
+  - first:
+      213: -4025454033673492792
+    second: sunset_6
+  - first:
+      213: -4277862926615721614
+    second: sunset_7
+  - first:
+      213: 1230888676982501851
+    second: sunset_8
+  - first:
+      213: 6051887719750176620
+    second: sunset_9
+  - first:
+      213: -435457075292422645
+    second: sunset_10
+  - first:
+      213: -7095832354293990500
+    second: sunset_11
+  - first:
+      213: 2903120931019883031
+    second: sunset_12
+  - first:
+      213: -4875443235080213238
+    second: sunset_13
+  - first:
+      213: 3245905344742294976
+    second: sunset_14
+  - first:
+      213: -2226512245153231267
+    second: sunset_15
+  - first:
+      213: 8982212923682687630
+    second: sunset_16
+  - first:
+      213: -1687092871512308779
+    second: sunset_17
+  - first:
+      213: -2408559469295410320
+    second: sunset_18
+  - first:
+      213: -4937859471024919457
+    second: sunset_19
+  - first:
+      213: -4948077163406545854
+    second: sunset_20
+  - first:
+      213: -6606503451120711227
+    second: sunset_21
+  - first:
+      213: -8028900807459438522
+    second: sunset_22
+  - first:
+      213: 6652055202609600578
+    second: sunset_23
+  - first:
+      213: -8551003986984252422
+    second: sunset_24
+  - first:
+      213: 2931462106626401074
+    second: sunset_25
+  - first:
+      213: 6750439001321098357
+    second: sunset_26
+  - first:
+      213: -5720996177211168351
+    second: sunset_27
+  - first:
+      213: 8187330380723871492
+    second: sunset_28
+  - first:
+      213: 7640840921205250876
+    second: sunset_29
+  - first:
+      213: -8999385200834353029
+    second: sunset_30
+  - first:
+      213: -8239308099263982440
+    second: sunset_31
+  - first:
+      213: 8992160234094178177
+    second: sunset_32
+  - first:
+      213: 3350362632784730895
+    second: sunset_33
+  - first:
+      213: -4065663334900856953
+    second: sunset_34
+  - first:
+      213: -790992206684748385
+    second: sunset_35
+  - first:
+      213: 2820425066758591968
+    second: sunset_36
+  - first:
+      213: 3395150653259643366
+    second: sunset_37
+  - first:
+      213: 5555113918744594237
+    second: sunset_38
+  - first:
+      213: 1679833503869376668
+    second: sunset_39
+  - first:
+      213: -4292085879222648624
+    second: sunset_40
+  - first:
+      213: -6901545320792697825
+    second: sunset_41
+  - first:
+      213: -6393078645348242923
+    second: sunset_42
+  - first:
+      213: 6636866822428976927
+    second: sunset_43
+  - first:
+      213: 3031709277262383533
+    second: sunset_44
+  - first:
+      213: -3526082397417786987
+    second: sunset_45
+  - first:
+      213: 8148962512620010201
+    second: sunset_46
+  - first:
+      213: -1773376734145999281
+    second: sunset_47
+  - first:
+      213: -7969085511314600496
+    second: sunset_48
+  - first:
+      213: 7536855217924586047
+    second: sunset_49
+  - first:
+      213: -470700001848988093
+    second: sunset_50
+  - first:
+      213: 5037843637179666855
+    second: sunset_51
+  - first:
+      213: 5985990872128487356
+    second: sunset_52
+  - first:
+      213: -3475306196136680246
+    second: sunset_53
+  - first:
+      213: 6033491814860109128
+    second: sunset_54
+  - first:
+      213: 4198320307710752357
+    second: sunset_55
+  - first:
+      213: 6785571822312408096
+    second: sunset_56
+  - first:
+      213: 3354875215644324946
+    second: sunset_57
+  - first:
+      213: -2919402134430309671
+    second: sunset_58
+  - first:
+      213: -7012203225659901193
+    second: sunset_59
+  - first:
+      213: -3022498393932680387
+    second: sunset_60
+  - first:
+      213: -2131497492685262304
+    second: sunset_61
+  - first:
+      213: -6099589395791516925
+    second: sunset_62
+  - first:
+      213: -8313765778812954887
+    second: sunset_63
+  - first:
+      213: 1544280601373497697
+    second: sunset_64
+  - first:
+      213: 1437824860631230025
+    second: sunset_65
+  - first:
+      213: -3831427103739231750
+    second: sunset_66
+  - first:
+      213: 7281886543734558230
+    second: sunset_67
+  - first:
+      213: -8741613081728300526
+    second: sunset_68
+  - first:
+      213: -534433712042485984
+    second: sunset_69
+  - first:
+      213: 5020499830247449691
+    second: sunset_70
+  - first:
+      213: -5120120914478602265
+    second: sunset_71
+  - first:
+      213: 6989452616890053621
+    second: sunset_72
+  - first:
+      213: 1965903902351906576
+    second: sunset_73
+  - first:
+      213: 884052322454664682
+    second: sunset_74
+  - first:
+      213: -3304755942491349964
+    second: sunset_75
+  - first:
+      213: -6233901752674631168
+    second: sunset_76
+  - first:
+      213: -9205791687369807906
+    second: sunset_77
+  - first:
+      213: -4802206082775263505
+    second: sunset_78
+  - first:
+      213: 6119432322296241465
+    second: sunset_79
+  - first:
+      213: 6002532167744742931
+    second: sunset_80
+  - first:
+      213: 3713605160689901413
+    second: sunset_81
+  - first:
+      213: 2795724938441942022
+    second: sunset_82
+  - first:
+      213: 5919513091293853074
+    second: sunset_83
+  - first:
+      213: -1391841876155957119
+    second: sunset_84
+  - first:
+      213: 8758094899856536802
+    second: sunset_85
+  - first:
+      213: -32649182479360807
+    second: sunset_86
+  - first:
+      213: 8406667050991064062
+    second: sunset_87
+  - first:
+      213: 8860054971188334969
+    second: sunset_88
+  - first:
+      213: 8025336717540945529
+    second: sunset_89
+  - first:
+      213: -6209523248378461803
+    second: sunset_90
+  - first:
+      213: 4484920429608915159
+    second: sunset_91
+  - first:
+      213: 8080143842570283624
+    second: sunset_92
+  - first:
+      213: -4084236676649273494
+    second: sunset_93
+  - first:
+      213: 5672513964566470902
+    second: sunset_94
+  - first:
+      213: -2340826858036065193
+    second: sunset_95
+  - first:
+      213: 6429400561444861859
+    second: sunset_96
+  - first:
+      213: 1628472732139169290
+    second: sunset_97
+  - first:
+      213: 7090724333057729713
+    second: sunset_98
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sunset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc83160d2d3d09900800000000000000
+      internalID: 689283645380311244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 254
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2461ba838bd86f980800000000000000
+      internalID: -8505455023878367678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 254
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19f449cb50a524f0800000000000000
+      internalID: -854100238237632227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 254
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a67e7d41f3b112e0800000000000000
+      internalID: -2156744897565133147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 254
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c9e07c446cda8d0800000000000000
+      internalID: -2833390591846474745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 254
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d8af1b5192ba250800000000000000
+      internalID: 5956900105284652418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c66a3752e6b228c0800000000000000
+      internalID: -4025454033673492792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 208
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279c145555af1a4c0800000000000000
+      internalID: -4277862926615721614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 208
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1b79deabef41110800000000000000
+      internalID: 1230888676982501851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 208
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f024c11df9cf350800000000000000
+      internalID: 6051887719750176620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 208
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0eb340e812f4f9f0800000000000000
+      internalID: -435457075292422645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 208
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b3590b11a868d90800000000000000
+      internalID: -7095832354293990500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7120179fa15f94820800000000000000
+      internalID: 2903120931019883031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 162
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d667a7532f65cb0800000000000000
+      internalID: -4875443235080213238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 162
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c508e7a6b5cb0d20800000000000000
+      internalID: 3245905344742294976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 162
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e859bd8e6d911e0800000000000000
+      internalID: -2226512245153231267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 162
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a8705701b37ac70800000000000000
+      internalID: 8982212923682687630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 162
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d34a62d8fd3698e0800000000000000
+      internalID: -1687092871512308779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0736e3c7ce3139ed0800000000000000
+      internalID: -2408559469295410320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 116
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ce2c619f2397bb0800000000000000
+      internalID: -4937859471024919457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 116
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c2ee13906e45bb0800000000000000
+      internalID: -4948077163406545854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 116
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9ce8c2d1cf054a0800000000000000
+      internalID: -6606503451120711227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_22
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 116
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640888a214d939090800000000000000
+      internalID: -8028900807459438522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 116
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24895d176f8d05c50800000000000000
+      internalID: 6652055202609600578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbcad2dd2bb45980800000000000000
+      internalID: -8551003986984252422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 70
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2332cf12145aea820800000000000000
+      internalID: 2931462106626401074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 70
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ccfaf91806ead50800000000000000
+      internalID: 6750439001321098357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 70
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9e5f7b940fa90b0800000000000000
+      internalID: -5720996177211168351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_28
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 70
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f5fc95a9d3f9170800000000000000
+      internalID: 8187330380723871492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 70
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b15bdb558b90a60800000000000000
+      internalID: 7640840921205250876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b786c5337d2cb1380800000000000000
+      internalID: -8999385200834353029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 24
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8941f5cffe818ad80800000000000000
+      internalID: -8239308099263982440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_32
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 24
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fa39427129acc70800000000000000
+      internalID: 8992160234094178177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 24
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b50e34011ee7e20800000000000000
+      internalID: 3350362632784730895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 24
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78787eadcbcd397c0800000000000000
+      internalID: -4065663334900856953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunset_35
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 24
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95047467c4d505f0800000000000000
+      internalID: -790992206684748385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

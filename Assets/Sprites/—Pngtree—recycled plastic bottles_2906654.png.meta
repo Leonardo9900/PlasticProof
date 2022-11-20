@@ -1,0 +1,1340 @@
+fileFormatVersion: 2
+guid: a1591e9eb8577354e97d56971b0a4f3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3302586855640000197
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_0"
+  - first:
+      213: -8262067772852528816
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_1"
+  - first:
+      213: -611051429410259148
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_2"
+  - first:
+      213: 5151579253582898686
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_3"
+  - first:
+      213: -3057792464581685416
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_4"
+  - first:
+      213: 6235344232697607139
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_5"
+  - first:
+      213: 5096706288356776611
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_6"
+  - first:
+      213: -2216906980723539746
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_7"
+  - first:
+      213: -2201322785517512758
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_8"
+  - first:
+      213: 5659760814327369536
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_9"
+  - first:
+      213: 2552852081499444666
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_10"
+  - first:
+      213: 6034225733732667695
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_11"
+  - first:
+      213: -7153740468146435376
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_12"
+  - first:
+      213: -7025070975124538393
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_13"
+  - first:
+      213: 129630412467839691
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_14"
+  - first:
+      213: 8465243497707919117
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_15"
+  - first:
+      213: -7311603152461195100
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_16"
+  - first:
+      213: 7741812915770963035
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_17"
+  - first:
+      213: -832862972411864015
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_18"
+  - first:
+      213: 7289018822801839735
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_19"
+  - first:
+      213: -5467503861571112533
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_20"
+  - first:
+      213: -2498810281441473873
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_21"
+  - first:
+      213: 7820052889822349904
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_22"
+  - first:
+      213: -8637036027223378231
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_23"
+  - first:
+      213: -9167108707732613466
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_24"
+  - first:
+      213: 2290606191204196905
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_25"
+  - first:
+      213: -2718107172181141149
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_26"
+  - first:
+      213: -7553807034852866868
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_27"
+  - first:
+      213: -2877452746054107596
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_28"
+  - first:
+      213: -3168627549528665978
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_29"
+  - first:
+      213: -7854918188221186177
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_30"
+  - first:
+      213: 2553187051573010716
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_31"
+  - first:
+      213: -2936996433308612509
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_32"
+  - first:
+      213: -2116113756153217209
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_33"
+  - first:
+      213: 5771871733125314516
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_34"
+  - first:
+      213: -700836471475027791
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_35"
+  - first:
+      213: 991684526231451111
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_36"
+  - first:
+      213: 7247835351746650673
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_37"
+  - first:
+      213: 8584285487720756687
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_38"
+  - first:
+      213: -6815089906000444463
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_39"
+  - first:
+      213: -4212104470951819790
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_40"
+  - first:
+      213: 7118394189255305432
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_41"
+  - first:
+      213: -5203626031753497080
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_42"
+  - first:
+      213: 2328609015026178737
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_43"
+  - first:
+      213: -2335003386599512776
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_44"
+  - first:
+      213: 7528003522232567071
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_45"
+  - first:
+      213: 8366338852948165179
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_46"
+  - first:
+      213: -2106686470566137715
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_47"
+  - first:
+      213: 8218568173091828247
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_48"
+  - first:
+      213: 1407527917667565205
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_49"
+  - first:
+      213: -1202010581701777700
+    second: "\u2014Pngtree\u2014recycled plastic bottles_2906654_50"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_0"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 706
+        width: 224
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6eb425f3525dd20800000000000000
+      internalID: 3302586855640000197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_1"
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1195
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0591ce8822d375d80800000000000000
+      internalID: -8262067772852528816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_2"
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1188
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fb18266fb1587f0800000000000000
+      internalID: -611051429410259148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_3"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1180
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5a41279061e7740800000000000000
+      internalID: 5151579253582898686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_4"
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1076
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f0ebf44f98095d0800000000000000
+      internalID: -3057792464581685416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_5"
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 632
+        width: 258
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3b83a1b84688650800000000000000
+      internalID: 6235344232697607139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_6"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1036
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa5102ad532bb640800000000000000
+      internalID: 5096706288356776611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_7"
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1032
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0c3e1c8d6fb31e0800000000000000
+      internalID: -2216906980723539746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_8"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 406
+        width: 158
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac75145f6945371e0800000000000000
+      internalID: -2201322785517512758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_9"
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 828
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f88a359728b8e40800000000000000
+      internalID: 5659760814327369536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_10"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 782
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab514e9417d8d6320800000000000000
+      internalID: 2552852081499444666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_11"
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 752
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2118a98550edb350800000000000000
+      internalID: 6034225733732667695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_12"
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 724
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da8bc442fec8bc90800000000000000
+      internalID: -7153740468146435376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_13"
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 540
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb7bc52b2fe18e90800000000000000
+      internalID: -7025070975124538393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_14"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 86
+        width: 351
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2ab3f5c2a8cc100800000000000000
+      internalID: 129630412467839691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_15"
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 486
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07d0124c169a7570800000000000000
+      internalID: 8465243497707919117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_16"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 485
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a89ceedba7f78a90800000000000000
+      internalID: -7311603152461195100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_17"
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 65
+        width: 310
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b543f0a34d1707b60800000000000000
+      internalID: 7741812915770963035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_18"
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 467
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c90de0a831174f0800000000000000
+      internalID: -832862972411864015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_19"
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 400
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7765d3e100cc72560800000000000000
+      internalID: 7289018822801839735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_20"
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 397
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba13afab4368f14b0800000000000000
+      internalID: -5467503861571112533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_21"
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 398
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa469dc941725dd0800000000000000
+      internalID: -2498810281441473873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_22"
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 397
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ac0aebba8668c60800000000000000
+      internalID: 7820052889822349904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_23"
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 396
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c679158e75132880800000000000000
+      internalID: -8637036027223378231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_24"
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 397
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a615322333e7c080800000000000000
+      internalID: -9167108707732613466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_25"
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 398
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922690bd13ed9cf10800000000000000
+      internalID: 2290606191204196905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_26"
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 399
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36993b49de7574ad0800000000000000
+      internalID: -2718107172181141149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_27"
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 233
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc48fb9068c7b2790800000000000000
+      internalID: -7553807034852866868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_28"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 231
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ef87d09fb3118d0800000000000000
+      internalID: -2877452746054107596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_29"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 220
+        width: 4
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680d3d42806c604d0800000000000000
+      internalID: -3168627549528665978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_30"
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 220
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f32536689bdf290800000000000000
+      internalID: -7854918188221186177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_31"
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 197
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11e226981ebe6320800000000000000
+      internalID: 2553187051573010716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_32"
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 128
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3680d060e41bd37d0800000000000000
+      internalID: -2936996433308612509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_33"
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 136
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f7b2c10cd02a2e0800000000000000
+      internalID: -2116113756153217209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_34"
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 118
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d77d06b2cec91050800000000000000
+      internalID: 5771871733125314516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_35"
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 104
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0c71041f02646f0800000000000000
+      internalID: -700836471475027791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_36"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 87
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5f64b82db23cd00800000000000000
+      internalID: 991684526231451111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_37"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 88
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132a06b0adb759460800000000000000
+      internalID: 7247835351746650673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_38"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 49
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5f22a6b22812770800000000000000
+      internalID: 8584285487720756687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_39"
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 68
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d34e70a6dfeb61a0800000000000000
+      internalID: -6815089906000444463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_40"
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 49
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f50514ec499b85c0800000000000000
+      internalID: -4212104470951819790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_41"
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 49
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d864cddccd99c260800000000000000
+      internalID: 7118394189255305432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_42"
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 43
+        width: 139
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8067b51b1b109c7b0800000000000000
+      internalID: -5203626031753497080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_43"
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 68
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba5869cf81e05020800000000000000
+      internalID: 2328609015026178737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_44"
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 49
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835e6609ac6689fd0800000000000000
+      internalID: -2335003386599512776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_45"
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 49
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15cf828157d87860800000000000000
+      internalID: 7528003522232567071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_46"
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 43
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3246882cd43b1470800000000000000
+      internalID: 8366338852948165179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_47"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 49
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80b8c411db83c2e0800000000000000
+      internalID: -2106686470566137715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_48"
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 49
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7123877a5383e0270800000000000000
+      internalID: 8218568173091828247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_49"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 43
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e35080f2b888310800000000000000
+      internalID: 1407527917667565205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014recycled plastic bottles_2906654_50"
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 60
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6a7659eb9915fe0800000000000000
+      internalID: -1202010581701777700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
