@@ -1,0 +1,6 @@
+C:\Users\hp\Desktop\PlasticProof\bin\Debug\netcoreapp3.1\PlasticProof.exe
+C:\Users\hp\Desktop\PlasticProof\obj\Debug\netcoreapp3.1\PlasticProof.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\PlasticProof\obj\Debug\netcoreapp3.1\PlasticProof.Form1.resources
+C:\Users\hp\Desktop\PlasticProof\obj\Debug\netcoreapp3.1\PlasticProof.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\PlasticProof\obj\Debug\netcoreapp3.1\PlasticProof.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\PlasticProof\obj\Debug\netcoreapp3.1\PlasticProof.AssemblyInfo.cs
